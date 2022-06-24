@@ -1,0 +1,7 @@
+/* Override markdown.css */
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+	margin-bottom: 0.7em;
+}
